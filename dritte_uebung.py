@@ -1,6 +1,5 @@
 from array import array
 from codecarbon import EmissionsTracker
-import numpy as np
 import random
 
 # Generieren eines Arrays mit n Zufallszahlen als for-schleife implementiert
